@@ -24,10 +24,12 @@ The project evolves from a baseline **random agent**, to **Q-learning**, and fin
 ## Results
 
 ### Q-Learning in Custom NxN Environment — 1000 Episode Training Demo
-![](img/q_training.mp4)
+<!-- ![](img/q_training.mp4) -->
+[🎥 Watch Q-Learning Training (1000 Episodes)](img/q_learning.mp4)
 
 ### Incomplete DQN training of Continuous Environment
-![](img/dqn_incomplete_training.mp4)
+<!-- ![](img/dqn_incomplete_training.mp4) -->
+[🎥 Watch DQN Training (1000 Episodes)](img/dqn_incomplete_training.mp4)
 
 ## Installation
 ```bash
