@@ -1,4 +1,4 @@
-# RL Gridworld Environment
+# RL Gridworld and Continuous Environment
 
 Custom **NxN Gridworld Environment** built with **Gymnasium** and **Pygame**, where an agent must find a goal while avoiding danger.  
 The project evolves from a baseline **random agent**, to **Q-learning**, and finally a **Deep Q-Network (DQN)** implemented in PyTorch.
@@ -21,8 +21,18 @@ The project evolves from a baseline **random agent**, to **Q-learning**, and fin
 
 ---
 
+## Results
+
+### Q-Learning in Custom NxN Environment — 1000 Episode Training Demo
+![](img/q_training.mp4)
+
+### Incomplete DQN training of Continuous Environment
+![](img/dqn_incomplete_training.mp4)
+
 ## Installation
 ```bash
-git clone https://github.com/<your-username>/rl-gridworld.git
+git clone https://github.com/Yacynte/simple_rienforce_learning
 cd simple_RL
 pip install -r requirements.txt
+
+
